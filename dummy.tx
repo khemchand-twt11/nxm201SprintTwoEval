@@ -1,0 +1,22 @@
+{
+      name:"gaurav"
+      email"gaurav@gmail.com"
+      pass:"gaurav"
+
+}
+
+{
+      "title":"programming",
+      "content":"programming is fun",
+      "author":"gaurav"
+}
+
+{
+  "email":"ram@gmail.com",
+  "pass":"ram"
+}
+{
+      "title":"maths",
+      "content":"maths is fun",
+      "author":"ram"
+}
